@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBookText",
-      "LiMicVocal",
-      "LiBookA",
-      "🖋",
-      "✏"
+      "LiAlbum",
+      "LiCode2",
+      "LiLifeBuoy",
+      "🖼",
+      "LiBookText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,9 @@
   "Blog": "🖋",
   "04. Education/Languages/English/Grammar": "LiBookText",
   "04. Education/Languages/English/Pronunciation": "LiMicVocal",
-  "04. Education/Languages/English/Vocabulary": "LiBookA"
+  "04. Education/Languages/English/Vocabulary": "LiBookA",
+  "memo": "LiBookText",
+  "picture": "LiAlbum",
+  "Life": "LiLifeBuoy",
+  "code": "LiCode2"
 }

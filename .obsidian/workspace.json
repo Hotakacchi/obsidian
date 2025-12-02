@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c82f1d12ce37a6ca",
+        "id": "240bdb8496caa9ae",
         "type": "tabs",
         "children": [
           {
-            "id": "7f14d7773d1d0283",
+            "id": "4b7d5654e769c09c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,23 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "picture/me/1000006755.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Welcomeのアウトライン"
-            }
-          },
-          {
-            "id": "378211c916c44c5d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "1000006755のアウトライン"
             }
           },
           {
@@ -196,7 +186,23 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
+      },
+      {
+        "id": "4a62882f89a72571",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "378211c916c44c5d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,8 +226,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c398b8c9d9a9fd88",
+  "active": "21172d5871b28d4f",
   "lastOpenFiles": [
+    "picture/me/1000006756.jpg",
+    "picture/me/1000006787.jpg",
+    "picture/me/1000006788.jpg",
+    "picture/me/Hotakacchi-icon2.png",
+    "picture/me/Hotakacchi-icon.png",
+    "picture/me/1000006755.jpg",
     "HTML import/tslib.md",
     "code/Pyrhon",
     "HTML import/tslib.es6.md",
@@ -244,7 +256,6 @@
     "Value Root/code/Java/変数、計算、入力、出力.md",
     "Life/Diary/2025-12-02.md",
     "Value Root/Value Root/picture/taiki/virus.gif",
-    "Value Root/Value Root/picture/taiki/sine.png",
     "Value Root/Value Root/memo/emoji/taiki.md",
     "Value Root/Value Root/code/Java/変数、計算、入力、出力.md",
     "Value Root/02. Life/Diary/2025-12-02.md",
