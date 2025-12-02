@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "240bdb8496caa9ae",
+        "id": "e0d85344d420ded2",
         "type": "tabs",
         "children": [
           {
-            "id": "4b7d5654e769c09c",
+            "id": "33d0249c981bb414",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -99,6 +99,7 @@
       {
         "id": "92d5b5cb981c1c3d",
         "type": "tabs",
+        "dimension": 65.85144927536231,
         "children": [
           {
             "id": "b3f47d63bb36c252",
@@ -166,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Life/Diary/2025-12-02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "2025-12-02のアウトライン"
             }
           },
           {
@@ -190,6 +192,7 @@
       {
         "id": "4a62882f89a72571",
         "type": "tabs",
+        "dimension": 34.14855072463768,
         "children": [
           {
             "id": "378211c916c44c5d",
@@ -225,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c398b8c9d9a9fd88",
+  "active": "21172d5871b28d4f",
   "lastOpenFiles": [
     "picture/me/1000006755.jpg",
     "picture/me/1000006756.jpg",
