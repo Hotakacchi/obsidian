@@ -166,13 +166,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picture/me/1000006755.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1000006755のアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -226,14 +225,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21172d5871b28d4f",
+  "active": "c398b8c9d9a9fd88",
   "lastOpenFiles": [
+    "picture/me/1000006755.jpg",
     "picture/me/1000006756.jpg",
     "picture/me/1000006787.jpg",
     "picture/me/1000006788.jpg",
     "picture/me/Hotakacchi-icon2.png",
     "picture/me/Hotakacchi-icon.png",
-    "picture/me/1000006755.jpg",
     "HTML import/tslib.md",
     "code/Pyrhon",
     "HTML import/tslib.es6.md",
