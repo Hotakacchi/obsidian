@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "9a286bae690abe37",
+    "id": "0834e2347b6ce894",
     "type": "split",
     "children": [
       {
-        "id": "d145c035ea8e694b",
+        "id": "c82f1d12ce37a6ca",
         "type": "tabs",
         "children": [
           {
-            "id": "0d0a29dffa85dd10",
+            "id": "7f14d7773d1d0283",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Life/Diary/2025-12-02.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-12-02"
+              "title": "新規タブ"
             }
           }
         ]
@@ -27,16 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6d9ad72a89ea1fe3",
+    "id": "2cba9ba8f284cd01",
     "type": "split",
     "children": [
       {
-        "id": "75661064ad180245",
+        "id": "0c10a4ae32da75bc",
         "type": "tabs",
-        "dimension": 56.043956043956044,
         "children": [
           {
-            "id": "b9f28a288cab2263",
+            "id": "21172d5871b28d4f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,17 +44,7 @@
             }
           },
           {
-            "id": "09f10a7db0ac3a88",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "ブックマーク"
-            }
-          },
-          {
-            "id": "b75678daf05f438a",
+            "id": "8ead4b77ddacb80d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -74,22 +59,29 @@
               "icon": "lucide-search",
               "title": "検索"
             }
+          },
+          {
+            "id": "ee2b4e5022bb0815",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
           }
         ]
       },
       {
-        "id": "46bd3003bf652699",
+        "id": "d254b93409b31abe",
         "type": "tabs",
-        "dimension": 43.956043956043956,
         "children": [
           {
-            "id": "dab11b44533dc4ed",
+            "id": "7dbc057f550551bf",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "グラフビュー"
             }
@@ -101,21 +93,19 @@
     "width": 300
   },
   "right": {
-    "id": "9e37a87239ca64a8",
+    "id": "5fac9ad61a2d0d64",
     "type": "split",
     "children": [
       {
-        "id": "1faf113406e18c8e",
+        "id": "92d5b5cb981c1c3d",
         "type": "tabs",
-        "dimension": 50.797872340425535,
         "children": [
           {
-            "id": "704d5e45f71edbc3",
+            "id": "b3f47d63bb36c252",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Life/Diary/2025-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,32 +115,31 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-12-02へのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
-            "id": "441a5ade9671577e",
+            "id": "b53f7864736f9f4e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Life/Diary/2025-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-12-02からのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
-            "id": "5ff5afb2b8435f02",
+            "id": "0ef2407ab3acddc4",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": true,
+                "useHierarchy": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -158,7 +147,7 @@
             }
           },
           {
-            "id": "b5bd21052b3431fc",
+            "id": "e60c888981824121",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -172,22 +161,32 @@
             }
           },
           {
-            "id": "9d1d6e5ddf3f2dad",
+            "id": "013c250e9cffc693",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Life/Diary/2025-12-02.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-02のアウトライン"
+              "title": "Welcomeのアウトライン"
             }
           },
           {
-            "id": "856bc31d156cd7cb",
+            "id": "378211c916c44c5d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "c398b8c9d9a9fd88",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -197,24 +196,7 @@
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "59930eaface1940e",
-        "type": "tabs",
-        "dimension": 49.202127659574465,
-        "children": [
-          {
-            "id": "5de111ea00394e78",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -238,31 +220,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5de111ea00394e78",
+  "active": "21172d5871b28d4f",
   "lastOpenFiles": [
-    "Value Root/daily/2025-12-02.md",
+    "Value Root/picture/me",
+    "Value Root/picture/taiki/sine.png",
+    "Value Root/picture/taiki/virus.gif",
+    "Value Root/picture/taiki",
+    "Value Root/picture",
+    "Value Root/memo/emoji/taiki.md",
+    "Value Root/memo/emoji",
+    "Value Root/memo",
+    "Value Root/code/Java/変数、計算、入力、出力.md",
+    "Value Root/code/Java",
+    "Value Root/code",
     "02. Life/Diary/2025-12-02.md",
     "02. Life/Diary",
     "02. Life",
-    "無題のカンバン.md",
-    "無題のフォルダ",
-    "Value Root/memo/emoji/taiki.md",
-    "Value Root/code/Java/変数、計算、入力、出力.md",
-    "Value Root/daily",
-    "2025-12-02.md",
-    "Value Root/code/Java",
-    "Value Root/picture/taiki/taiki_virus.exe",
-    "Value Root/picture/taiki/sine.png",
-    "Value Root/picture/taiki",
-    "Value Root/picture/taiki/virus.gif",
-    "Value Root/picture/taiki.canvas",
-    "Value Root/picture",
-    "無題のファイル.base",
-    "Value Root/memo/emoji",
-    "code/Python/関数.md",
-    "memo/emoji/あ.md",
-    "memo/emoji/taiki.md",
-    "main/無題のファイル.md",
+    "Value Root/Value Root/picture/taiki/virus.gif",
+    "Value Root/Value Root/picture/taiki/sine.png",
+    "Value Root/Value Root/memo/emoji/taiki.md",
+    "Value Root/Value Root/code/Java/変数、計算、入力、出力.md",
+    "Value Root/Value Root/picture/taiki",
+    "Value Root/Value Root/memo/emoji",
+    "Value Root/02. Life/Diary/2025-12-02.md",
     "Welcome.md"
   ]
 }
